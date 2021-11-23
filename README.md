@@ -1,2 +1,2 @@
 # Functions
-Program valid Triangle
+Program C++
