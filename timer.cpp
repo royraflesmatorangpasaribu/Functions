@@ -1,29 +1,22 @@
 #include <iostream>
 #include <windows.h>
-
 using namespace std;
 
-int score=0;
-
+//fungsi prosedur waktu
 void waktu(){
 	
+	//deklarasi variabel
 	int i;
 	
 	for(int i=5; i>=0 ; i--){
 		cout << "waktu : ";
 		cout << i;
-		Sleep(1000);
-		system("cls");
-		
-		if(i==0){
-		cout << "WAKTU HABIS\n";
-		cout << "Score : " << score;
-		}
+		Sleep(1000);   
+		system("cls");	//menghapus layar
 	}
-	
-	
 }
 
 int main(){
+	//memanggil prosedur fungsi waktu
 	waktu();
 }
