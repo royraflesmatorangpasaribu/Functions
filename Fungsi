@@ -11,3 +11,12 @@ Fungsi di C++
   Fungsi merupakan suatu bagian dari program c++ yang di maksudkan untuk mengerjakan suatu tugas tertentu dan letaknya terpisah dari program yang memanggilnya. 
   Fungsi merupakan elemen utama dalam c++ karena bahasa c++ sendiri terbentuk dari kumpulan fungsi-fungsi. Dalam setiap program, setidaknya terdapat satu fungsi 
   utama yang merupakan fungsi awal pemanggilan program yaitu fungsi main(). 
+  
+Tipe fungsi di deklarasikan apakah tipe int, string, float atau lainnya. Nama fungsi digunakan sebagai penamaan saja, merupakan nama suatu variabel. 
+Parameter fungsi berisi kondisi dan status dari fungsi yang digunakan. Untuk pendefinisian fungsi kurang lebih seperti berikut ini :
+
+    TipeFungsi NamaFungsi (ParamenterFungsi){
+                statement
+                statement
+                .............
+    }  
