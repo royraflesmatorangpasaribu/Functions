@@ -4,4 +4,9 @@ Sumber : Dian (https://www.petanikode.com/cpp-fungsi/)
 
 Fungsi
   Fungsi adalah sub-program yang bisa digunakan kembali baik di dalam program itu sendiri, maupun di program yang lain. Fungsi dapat menerima input dan menghasilkan output.
-Fungsi ini memang wajib ada di setiap program C++, karena fungsi inilah yang akan dieksekusi pertama kali saat program berjalan.
+  Fungsi ini memang wajib ada di setiap program C++, karena fungsi inilah yang akan dieksekusi pertama kali saat program berjalan.
+
+Fungsi di C++
+Fungsi merupakan suatu bagian dari program c++ yang di maksudkan untuk mengerjakan suatu tugas tertentu dan letaknya terpisah dari program yang memanggilnya. 
+Fungsi merupakan elemen utama dalam c++ karena bahasa c++ sendiri terbentuk dari kumpulan fungsi-fungsi. Dalam setiap program, setidaknya terdapat satu fungsi 
+utama yang merupakan fungsi awal pemanggilan program yaitu fungsi main(). 
