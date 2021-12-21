@@ -20,3 +20,11 @@ Parameter fungsi berisi kondisi dan status dari fungsi yang digunakan. Untuk pen
                 statement
                 .............
     }  
+
+Hal-hal yang perlu di perhatikan dalam penggunaan fungsi :
+
+    Kalau tipe fungsi tidak di sebutkan, maka secara default fungsi akan di anggap bertipe integer.
+    Untuk fungsi yang memiliki keluaran bertipe bukan integer, maka di perlukan pendefinisian penentu tipe fungsi.
+    Untuk fungsi yang tidak memiliki nilai keluaran maka di masukan ke dalam tipe void. 
+    Pernyataan yang di berikan untuk memberikan nilai akhir fungsi berupa pernyataan return
+    Suatu fungsi dapat menghasilkan nilai balik bagi fungsi pemanggilnya.
