@@ -3,7 +3,7 @@ Materi Fungsi
 Sumber : Dian (https://www.petanikode.com/cpp-fungsi/)
          https://alfafarhans.blogspot.com/2019/02/c-programming-8-fungsi-dan-prosedur-di-c.html
 
-Fungsi
+Definisi Fungsi
   Fungsi adalah sub-program yang bisa digunakan kembali baik di dalam program itu sendiri, maupun di program yang lain. Fungsi dapat menerima input dan menghasilkan output.
   Fungsi ini memang wajib ada di setiap program C++, karena fungsi inilah yang akan dieksekusi pertama kali saat program berjalan.
 
@@ -18,6 +18,7 @@ Parameter fungsi berisi kondisi dan status dari fungsi yang digunakan. Untuk pen
     TipeFungsi NamaFungsi (ParamenterFungsi){
                 statement
                 statement
+                dst.........
                 .............
     }  
 
