@@ -15,7 +15,7 @@ Fungsi di C++
 Tipe fungsi di deklarasikan apakah tipe int, string, float atau lainnya. Nama fungsi digunakan sebagai penamaan saja, merupakan nama suatu variabel. 
 Parameter fungsi berisi kondisi dan status dari fungsi yang digunakan. Untuk pendefinisian fungsi kurang lebih seperti berikut ini :
 
-    TipeFungsi NamaFungsi (ParamenterFungsi){
+    TipeFungsi_NamaFungsi_(ParamenterFungsi){
                 statement
                 statement
                 dst.........
