@@ -2,7 +2,9 @@
 #include <windows.h>
 using namespace std;
 
-//fungsi prosedur waktu
+//Program dibuat oleh Roy Rafles Matorang Pasaribu
+
+//prosedur waktu
 void waktu(){
 	
 	//deklarasi variabel
@@ -11,7 +13,7 @@ void waktu(){
 	for(int i=3; i>=0 ; i--){
 		cout << "waktu : ";
 		cout << i;
-		Sleep(2000);   //jeda 2 detik
+		Sleep(1000);   //jeda 2 detik
 		system("cls");	//menghapus layar
 	}
 }
