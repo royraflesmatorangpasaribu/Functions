@@ -11,7 +11,7 @@ void waktu(){
 	int i;
 	cout<<"Hallo"<<endl;
 	for(int i=3; i>=0 ; i--){
-		cout << "waktu : ";
+		cout << "Time : ";
 		cout << i;
 		Sleep(1000);   //jeda 2 detik
 		system("cls");	//menghapus layar
