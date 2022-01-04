@@ -11,6 +11,7 @@ void printChain(int n){
 	}
 }
 int main(){
+	//memanggil fungsi
 	printChain(5);
 	
 	//karena menggunakan fungsi main
