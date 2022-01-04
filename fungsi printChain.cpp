@@ -10,6 +10,8 @@ void printChain(int n){
 		cout<<i<<" ";
 	}
 }
+
+//fungsi utama
 int main(){
 	//memanggil fungsi
 	printChain(5);
