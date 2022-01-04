@@ -12,4 +12,6 @@ void printChain(int n){
 }
 int main(){
 	printChain(5);
+	
+	return 0;
 }
