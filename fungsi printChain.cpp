@@ -13,5 +13,6 @@ void printChain(int n){
 int main(){
 	printChain(5);
 	
+	//karena menggunakan fungsi main
 	return 0;
 }
