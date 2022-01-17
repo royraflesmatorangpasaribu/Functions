@@ -3,7 +3,7 @@
 #include<windows.h>
 using namespace std;
 int noPIN;
-
+string name;
 
 void input(){
 	cout<<"Input Your Name : ";
