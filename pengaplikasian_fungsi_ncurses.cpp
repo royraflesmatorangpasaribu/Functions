@@ -2,19 +2,26 @@
 #include <ncurses/ncurses.h>
 #include<windows.h>
 using namespace std;
+//dibuat pada 17 Januari 2022
+
+//deklarasi variabel yang digunakan
 int noPIN;
 string name;
 
+//membuat fungsi input
 void input(){
 	cout<<"Input Your Name : ";
 	cin>>name;
 	cout<<"Input Your PIN  : ";
 	cin>>noPIN;
 }
+
+//membuat fungsi output
 void output(){
 	cout<<"Hello "<<name;
 }
 
+//membuat 
 void loading(){
 	initscr();
 	mvprintw(10, 40, "Masuk Dalam Program");
