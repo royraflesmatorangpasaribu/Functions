@@ -23,6 +23,7 @@ void output(){
 
 //membuat fungsi loading
 void loading(){
+
 	initscr();
 	mvprintw(10, 40, "Masuk Dalam Program");
 	mvprintw(11, 40, "Loading");
@@ -31,14 +32,16 @@ void loading(){
 	refresh();
 	Sleep(100);
 	}
-	
 	refresh();
 	getch();
 
 }
 int main(){
+	//memanggil fungsi input
 	input();
+	
 	system("CLS");
+	
 	loading();
 	output();
 }
