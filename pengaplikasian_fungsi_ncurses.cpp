@@ -21,7 +21,7 @@ void output(){
 	cout<<"Hello "<<name;
 }
 
-//membuat 
+//membuat fungsi loading
 void loading(){
 	initscr();
 	mvprintw(10, 40, "Masuk Dalam Program");
