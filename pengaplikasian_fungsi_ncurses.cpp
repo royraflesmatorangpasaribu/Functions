@@ -3,8 +3,7 @@
 #include<windows.h>
 using namespace std;
 int noPIN;
-string name;
-//string PIN[20] = {"123456"};
+
 
 void input(){
 	cout<<"Input Your Name : ";
