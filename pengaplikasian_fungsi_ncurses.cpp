@@ -43,5 +43,7 @@ int main(){
 	system("CLS");
 	
 	loading();
+	
+	//memanggil fungsi output
 	output();
 }
