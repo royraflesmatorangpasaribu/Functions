@@ -45,6 +45,7 @@ int main(){
 	tanpa harus menutup program tersebut dan membukanya kembali.*/
 	system("CLS"); 
 	
+	//memanggil fungsi loading
 	loading();
 	
 	//memanggil fungsi output
