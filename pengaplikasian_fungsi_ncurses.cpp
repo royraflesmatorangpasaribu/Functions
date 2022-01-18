@@ -23,14 +23,15 @@ void output(){
 
 //membuat fungsi loading
 void loading(){
-
+	//memulai layar ncurses
 	initscr();
+	
 	mvprintw(10, 40, "Masuk Dalam Program");
 	mvprintw(11, 40, "Loading");
 	for(int baris=48; baris<=57; baris++){
 	mvprintw(11, baris, ".");
 	refresh();
-	Sleep(100);
+	Sleep(1000);   //menandakan untuk delay selama 1 detik
 	}
 	refresh();
 	getch();
