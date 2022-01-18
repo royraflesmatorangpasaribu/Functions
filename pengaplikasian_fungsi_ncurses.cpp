@@ -30,6 +30,7 @@ void loading(){
 	
 	mvprintw(10, 40, "Masuk Dalam Program");
 	mvprintw(11, 40, "Loading");
+	//looping
 	for(int baris=48; baris<=57; baris++){
 	mvprintw(11, baris, ".");
 	refresh();
