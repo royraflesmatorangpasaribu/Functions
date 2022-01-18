@@ -50,4 +50,7 @@ int main(){
 	
 	//memanggil fungsi output
 	output();
+	
+	//karena menggunakan fungsi main()
+	return 0;
 }
