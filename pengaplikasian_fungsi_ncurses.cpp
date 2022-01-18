@@ -2,6 +2,8 @@
 #include <ncurses/ncurses.h>
 #include<windows.h>
 using namespace std;
+
+//roy rafles matorang pasaribu
 //dibuat pada 17 Januari 2022
 
 //deklarasi variabel yang digunakan
