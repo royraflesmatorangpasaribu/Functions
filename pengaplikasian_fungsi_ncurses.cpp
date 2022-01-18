@@ -40,7 +40,10 @@ int main(){
 	//memanggil fungsi input
 	input();
 	
-	system("CLS");
+	/*system(“CLS”) di C++ adalah untuk membersihkan layar pada program yang akan dijalankan 
+	sehingga pemrogram dapat menenentukan saat untuk menghapus data yang telah dijalankan 
+	tanpa harus menutup program tersebut dan membukanya kembali.*/
+	system("CLS"); 
 	
 	loading();
 	
