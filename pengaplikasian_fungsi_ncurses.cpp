@@ -12,6 +12,7 @@ string name;
 
 //membuat fungsi input
 void input(){
+	//input
 	cout<<"Input Your Name : ";
 	cin>>name;
 	cout<<"Input Your PIN  : ";
