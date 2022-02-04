@@ -29,6 +29,7 @@ void loading(){
 	//memulai layar ncurses
 	initscr();
 	
+	//output
 	mvprintw(10, 40, "Masuk Dalam Program");
 	mvprintw(11, 40, "Loading");
 	
