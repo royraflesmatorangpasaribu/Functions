@@ -44,6 +44,8 @@ void loading(){
 	getch();
 
 }
+
+//fungsi utama
 int main(){
 	//memanggil fungsi input
 	input();
