@@ -40,6 +40,7 @@ void loading(){
 	refresh();
 	Sleep(1000);   //menandakan untuk delay selama 1 detik
 	}
+	
 	refresh();
 	getch();	//berfungsi untuk menunggu input key dari keyboard
 
