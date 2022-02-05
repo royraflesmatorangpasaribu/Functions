@@ -5,7 +5,7 @@ using namespace std;
 
 //roy rafles matorang pasaribu
 //dibuat pada 17 Januari 2022
-//update pada fungsi loading pada 04 februari 2022 
+//update pada fungsi loading pada 05 februari 2022 
 
 //deklarasi variabel yang digunakan
 int noPIN;
